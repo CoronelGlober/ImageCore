@@ -1,2 +1,2 @@
-include ':ImageCore'
-rootProject.name = "My Application"
+include ':imagecore'
+rootProject.name = "imagecore"
